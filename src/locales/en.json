@@ -1,0 +1,17 @@
+{
+  "biller": "Biller",
+  "language": "Language",
+  "new-bill": "New Bill",
+  "load-bill": "Load Bill",
+  "en": "English",
+  "es": "Spanish",
+  "home-title": "Welcome to Biller",
+  "welcome-msg": "Do you want to create a new bill or upload an existing one?",
+  "home": "Home",
+  "footer-txt": "© 2022 Unnamed Item Studios",
+  "price": "Price",
+  "description": "Description",
+  "amount": "Amount",
+  "save": "Save",
+  "print": "Print"
+}

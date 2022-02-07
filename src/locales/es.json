@@ -1,0 +1,18 @@
+{
+    "biller": "Facturador",
+    "language": "Lenguaje",
+    "new-bill": "Nueva Factura",
+    "load-bill": "Cargar Factura",
+    "en": "Inglés",
+    "es": "Español",
+    "home-title": "Bienvenido al Facturador",
+    "welcome-msg": "¿Desea crear una nueva factura o cargar una?",
+    "home": "Inicio",
+    "footer-txt": "© 2022 Unnamed Item Studios",
+    "price": "Precio",
+    "description": "Descripción",
+    "amount": "Cantidad",
+    "save": "Guardar",
+    "print": "Imprimir",
+    "new-bill-title": "Nueva Factura"
+}
